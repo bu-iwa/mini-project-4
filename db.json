@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "listId": 1,
+      "title": "cs 391",
+      "quantity": 1,
+      "price": 6.99,
+      "condition": "new",
+      "location": "usa",
+      "size": "small",
+      "fees": 0,
+    },
+    {
+      "id": 2,
+      "listId": 1,
+      "title": "mini project",
+      "quantity": 1,
+      "price": 0.99,
+      "condition": "new",
+      "location": "usa",
+      "size": "small",
+      "fees": 0,
+    },
+    {
+      "id": 3,
+      "listId": 2,
+      "title": "another item for mini project",
+      "quantity": 1,
+      "price": 8.99,
+      "condition": "new",
+      "location": "usa",
+      "size": "small",
+      "fees": 0,
+    }
+  ],
+  "lists": [
+    {
+      "id": 1,
+      "title": "DUMMY TEXT FOR CS391"
+    },
+    {
+      "id": 2,
+      "title": "DUMMY TEXT FOR CS391"
+    },
+    {
+      "id": 3,
+      "title": "DUMMY TEXT FOR CS391"
+    },
+    {
+      "id": 4,
+      "title": "DUMMY TEXT FOR CS391"
+    },
+    {
+      "id": 5,
+      "title": "DUMMY TEXT FOR CS391"
+    },
+  ],
+}
